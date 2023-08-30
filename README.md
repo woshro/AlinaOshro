@@ -1,10 +1,27 @@
-### Hi there 👋
-
+<p> 
+  <a href="https://drive.google.com/file/..."> <img src="https://img.shields.io/badge/-CV-yellow?style=plastic" height="25px"> </a>
+  <a href="[https://www.kaggle.com/vadimtimakin](https://www.kaggle.com/alinaoshroeva)"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" height="25px" alt="Kaggle">
+   <a href="https://www.linkedin.com/..."><img src="https://img.shields.io/badge/linkedin-006CAC.svg?&style=plastic&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"> </a>
+    <a href="mailto:oshroevaa@mail.ru"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email">
+  <a href="https://t.me/oshro"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="25px"> </a>
+</p> 
+      
+<table border="5" cellspacing="15" cellpadding="0" border_style="ridge">
+<tbody>
+  <tr> 
+    <td width="200">
+        <a href="https://github.com/AlinaOshro/AlinaOshro/blob/master/image.jpg"><img alt="Alina Oshroeva" src="https://github.com/AlinaOshro/AlinaOshro/blob/master/image.jpg" width="160" border="1"></a>
+    </td>
+    <td width="375" align="center">
+    <p> 
+        Hello world
+    </p>
+   </tr>
+</tbody>
+</table>
+  
 <!--
-**AlinaOshro/AlinaOshro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
